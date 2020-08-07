@@ -1,0 +1,9 @@
+Rules:
+
+1. You have to prevent any line to intersect with any other line.
+2. Alse you have to prevent your money(shown in top left part of the screen) from going to 0.
+3. Left Clicking on any point on the screen causes it to make a line to that position.
+4. You can use Right Click on a line to erase that line.
+5. Making a line and deleting a line uses 1 unit of your money and on the other hand collecting a coin gives you 2 units. 
+
+                       Good Luck and Have Fun
